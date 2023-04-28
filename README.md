@@ -35,17 +35,17 @@
 </p>
 
 ## Installation
-```(shell)
+```shell
 # Waiting for updating
 ```
 
 ## Running
-```(shell)
+```shell
 # Waiting for updating
 ```
 
 ## Visualization
-```(shell)
+```shell
 # Waiting for updating
 ```
 
@@ -56,10 +56,9 @@ BSD 3-clause
 
 If you find this useful for your research, please use the following BibTeX entry.
 
-```
+```bibtex
 @article{shen2023CT2Hair,
   title={CT2Hair: High-Fidelity 3D Hair Modeling using Computed Tomography},
-  Yuefan Shen, Shunsuke Saito, Ziyan Wang, Olivier Maury, Chenglei Wu, Jessica Hodgins, Youyi Zheng*, Giljoo Nam
   author={Shen, yuefan and Saito, Shunsuke and Wang, Ziyan and Maury, Olivier and Wu, Chenglei and Hodgins, Jessica and Zheng, Youyi and Nam, Giljoo},
   journal={ACM Trans. Graph.},
   year={2023}
